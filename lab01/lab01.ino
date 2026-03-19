@@ -1,4 +1,3 @@
-// 第 1 行必须包含头文件
 #include <Arduino.h>
 // 定义板载LED引脚，避免使用"魔法数字"
 #define LED_PIN 2
